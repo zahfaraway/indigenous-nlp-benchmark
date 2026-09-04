@@ -406,3 +406,10 @@ The supplied team plan names the following GitHub handles and roles. Replace or 
 - `talk2kabirusman-wq` — additional group member; assigned part to be confirmed
 
 **Team lead**: Yusuf Aminu Abdullahi (`zahfaraway`) — integration and validation. The lead must not claim another member's work as their own.
+
+## Part 2: Data Quality & Duplicate Inspection (Completed by @ibnbazz)
+- **Duplicate Verification:** Checked raw and processed corpus files; removed redundant/repeated sentence entries.
+- **Sanitization:** Stripped HTML/XML tags, whitespace anomalies, and broken characters.
+- **Diacritic Check:** Confirmed that Gbagyi subdots, tone marks, and special characters (`ɓ`, `ɗ`, `ã`, `ẽ`, `ĩ`, `õ`, `ũ`, `ɛ`, `ɔ`) remain fully preserved without loss.
+- **Status:** Dataset verified and clean for Zipf analysis and N-Gram modeling.
+
