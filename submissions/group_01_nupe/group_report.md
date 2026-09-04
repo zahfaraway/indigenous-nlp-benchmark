@@ -203,3 +203,11 @@ $ git log --oneline
 **Report Submitted**: [Date]  
 **All Parts Complete**: Yes / No  
 **Ready for Submission**: Yes / No
+
+
+## Part 3: Zipf's Law & Frequency Analysis (Completed by @Hassanahmed331)
+- **Rank-Frequency Distribution:** Evaluated word frequency distribution across unique Gbagyi corpus tokens.
+- **Zipfian Dynamics:** Plotted log-rank vs log-frequency curves; confirmed power-law distribution characteristic of natural languages.
+- **Top Vocabulary Metrics:** Identified high-frequency functional words and long-tail rare lexical items in the Gbagyi corpus.
+- **Status:** PASSED — Zipf frequency analysis completed and verified.
+"docs: add zipf law analysis 
