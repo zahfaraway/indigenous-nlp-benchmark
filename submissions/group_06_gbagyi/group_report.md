@@ -391,7 +391,7 @@ The following assignment map records each member's part as requested by the lect
 
 The supplied team plan names the following GitHub handles and roles. Replace or augment this list with the real names, IDs, emails, and commit-backed contributions before submission:
 
-- `mustyandcool` — notebook metadata and scraper work
+- `mustyandcool` — notebook metadata and scraper work.
 - `ALMUSTY0` — web sources and raw corpus
 - `anselmdan` — JSONL and coverage validation
 - `emmanueljoshuashekwolo25-dev` — normalization and tokenizer
