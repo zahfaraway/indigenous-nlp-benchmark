@@ -378,6 +378,7 @@ The following assignment map records each member's part as requested by the lect
 - **Part 3 — Zipf analysis and visualization:** @Hassanahmed331
 - **Part 4 — N-gram model, perplexity, and report:** @isahabdulkadir and @Shizzey
 - **Validation and quality checks:** @anselmdan, @meethalima913-bot, and @ibnbazz
+- **Additional group members to confirm and assign:** @musty178 and @talk2kabirusman-wq
 - **Integration and final review:** @zahfaraway (Yusuf Aminu Abdullahi, team lead)
 
 ## Appendix A — References
@@ -401,5 +402,7 @@ The supplied team plan names the following GitHub handles and roles. Replace or 
 - `alameenmag` — sources, references, and metrics
 - `meethalima913-bot` — notebook execution and format validation
 - `ibnbazz` — data quality and duplicate checks
+- `musty178` — additional group member; assigned part to be confirmed
+- `talk2kabirusman-wq` — additional group member; assigned part to be confirmed
 
 **Team lead**: Yusuf Aminu Abdullahi (`zahfaraway`) — integration and validation. The lead must not claim another member's work as their own.
