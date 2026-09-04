@@ -395,7 +395,7 @@ The supplied team plan names the following GitHub handles and roles. Replace or 
 - `ALMUSTY0` — web sources and raw corpus
 - `anselmdan` — JSONL and coverage validation
 - `emmanueljoshuashekwolo25-dev` — normalization and tokenizer
-- `gimba45` — stop-word and orthography resources
+- `gimba45` — stop-word and orthography resources.
 - `Hassanahmed331` — Zipf analysis
 - `isahabdulkadir` — unigram and bigram model
 - `Shizzey` — perplexity and report
