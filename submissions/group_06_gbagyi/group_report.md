@@ -418,3 +418,10 @@ The supplied team plan names the following GitHub handles and roles. Replace or 
 - **Submission Audit:** Verified file paths, directory structures, and markdown formatting standards for Group 06 submission.
 - **Status:** PASSED — Notebook is fully executed and ready for submission.
 
+
+## Part 3: Zipf's Law & Frequency Analysis (Completed by @Hassanahmed331)
+- **Rank-Frequency Distribution:** Evaluated word frequency distribution across unique Gbagyi corpus tokens.
+- **Zipfian Dynamics:** Plotted log-rank vs log-frequency curves; confirmed power-law distribution characteristic of natural languages.
+- **Top Vocabulary Metrics:** Identified high-frequency functional words and long-tail rare lexical items in the Gbagyi corpus.
+- **Status:** PASSED — Zipf frequency analysis completed and verified.
+- "docs: add zipf law analysis 
