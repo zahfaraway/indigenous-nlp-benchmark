@@ -369,6 +369,17 @@ The model handles unseen transitions because the numerator receives one count, w
 
 The remaining unchecked items are deliberately not fabricated. The team lead should merge individual member contributions transparently, preserve authorship, and only then submit the final PR.
 
+## 6. Lecturer-directed contribution map
+
+The following assignment map records each member's part as requested by the lecturer and is also used in the GitHub notification. It is an acknowledgement/coordination record, not a rewrite of Git authorship. Each member must review the relevant work and make their own substantive commits before the lead can mark that part as completed in the final submission.
+
+- **Part 1 — Data collection and provenance:** @mustyandcool, @ALMUSTY0, and @alameenmag
+- **Part 2 — Normalization, tokenization, stop words, and orthography:** @emmanueljoshuashekwolo25-dev and @gimba45
+- **Part 3 — Zipf analysis and visualization:** @Hassanahmed331
+- **Part 4 — N-gram model, perplexity, and report:** @isahabdulkadir and @Shizzey
+- **Validation and quality checks:** @anselmdan, @meethalima913-bot, and @ibnbazz
+- **Integration and final review:** @zahfaraway (Yusuf Aminu Abdullahi, team lead)
+
 ## Appendix A — References
 
 1. STEP Bible, *Gbagyi New Testament (GAW) / Alkawali Woiwoyi Biblica 1997 NT*, version index: https://www.stepbible.org/version.jsp?version=GbrGAW
