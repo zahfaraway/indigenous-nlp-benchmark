@@ -412,4 +412,9 @@ The supplied team plan names the following GitHub handles and roles. Replace or 
 - **Sanitization:** Stripped HTML/XML tags, whitespace anomalies, and broken characters.
 - **Diacritic Check:** Confirmed that Gbagyi subdots, tone marks, and special characters (`ɓ`, `ɗ`, `ã`, `ẽ`, `ĩ`, `õ`, `ũ`, `ɛ`, `ɔ`) remain fully preserved without loss.
 - **Status:** Dataset verified and clean for Zipf analysis and N-Gram modeling.
+- ## Part 6: Notebook Execution & Format Validation (Completed by @meethalima913-bot)
+- **Notebook Execution:** Automated dry-run of all code cells in `HW1_assignment.ipynb` to verify zero runtime errors.
+- **Output Inspection:** Validated execution outputs, plot generation, and matrix outputs.
+- **Submission Audit:** Verified file paths, directory structures, and markdown formatting standards for Group 06 submission.
+- **Status:** PASSED — Notebook is fully executed and ready for submission.
 
